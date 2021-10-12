@@ -1,2 +1,2 @@
 # FirstRepo
-Ini adalah Repository pertama dari GitHub
+Ini adalah Repository pertama saya dari GitHub
